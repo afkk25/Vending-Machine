@@ -1,8 +1,6 @@
 /* ****************************************
 VendingMachine.c
 A program for controlling a drink vending machine
-Written by Dr T Rachidi
-Last updated Nov 19, 2022
  ******************************************* */
 
 #include <stdio.h>
